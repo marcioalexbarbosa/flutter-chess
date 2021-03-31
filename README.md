@@ -2,4 +2,4 @@
 
 A flutter chess app with simple AI
 
-![screenshot](screenshot1.png "screenshot")
+![screenshot](screenshot_chess.png "screenshot")
